@@ -13,5 +13,5 @@ docker compose up -d
 ## Google Colab
 https://colab.research.google.com/?hl=ja
 
-## 記事の保管用
+## 記事の補完用
 [Zenn](https://zenn.dev/syu_tan/articles/c331eee691749c)
